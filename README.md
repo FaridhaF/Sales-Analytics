@@ -13,5 +13,7 @@
 
 **Project link for Customer Net Sales Performance**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Customer%20Net%20sales%20Performance.pdf
 
-**Customer Net Sales Performance in India**: 
+**Customer Net Sales Performance in India**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Customer%20performance%20in%20India.pdf
+
+
 
