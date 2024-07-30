@@ -1,5 +1,5 @@
 # Sales-Analytics
-**Sales Report**
+
 **Project Description**
 > Created Customer Performance Report to have a good summarization of Net Sales of all the customers in the years 2019,2020 
   and 2021.
