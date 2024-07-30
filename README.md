@@ -24,8 +24,22 @@
 **Top 10 Products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20products.pdf
 (Based on 2020 vs 2021 Net sales percentage)
 
+**2021 New products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/2021%20New%20products.pdf
+(new products are those whose net sales is zero in previous year)
+
 **Top 5 Countries**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%205%20Countries%202021%20sales.pdf
 (based on 2021 Net Sales)
+
+## Technical & Soft Skills:
+- [x]  Proficiency in ETL(Extract Transform and Load)
+- [x]  Generated date table using power query
+- [x]  Established data model relationships with Power Pivot.
+- [x]  Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x] Functional knowledge about sales
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
 
 
 
