@@ -11,4 +11,7 @@
 > Identify sales patterns and track key performance indicators (KPIs).
 > Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-Project link for Customer Net Sales Performance: 
+**Project link for Customer Net Sales Performance**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Customer%20Net%20sales%20Performance.pdf
+
+**Customer Net Sales Performance in India**: 
+
