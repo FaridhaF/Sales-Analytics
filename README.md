@@ -21,4 +21,7 @@
 
 **Division Level report**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Division%20Level%20Report.pdf
 
+**Top 10 Products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20products.pdf
+(Based on 2020 vs 2021 Net sales percentage)
+
 
