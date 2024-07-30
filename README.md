@@ -24,4 +24,8 @@
 **Top 10 Products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20products.pdf
 (Based on 2020 vs 2021 Net sales percentage)
 
+**Top 5 Countries**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%205%20Countries%202021%20sales.pdf
+(based on 2021 Net Sales)
+
+
 
