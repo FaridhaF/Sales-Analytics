@@ -19,11 +19,11 @@
 
 **Division Level report**: [https://github.com/FaridhaF/Sales-Analytics/blob/main/Division%20Level%20Report.pdf](https://github.com/FaridhaF/Sales-Analytics/blob/main/Division%20Level%20Report.pdf)
 
-**Top 10 Products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20products.pdf
+**Top 10 Products**: [https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20products.pdf](https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%2010%20Products%20by%20Net%20Sales.pdf)
 (Based on 2020 vs 2021 Net sales percentage)
 
 **2021 New products**: https://github.com/FaridhaF/Sales-Analytics/blob/main/2021%20New%20products.pdf
-(new products are those whose net sales is zero in previous year)
+(new products are those in which 2021 vs 2021 growth is 0%))
 
 **Top 5 Countries**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%205%20Countries%202021%20sales.pdf
 (based on 2021 Net Sales)
