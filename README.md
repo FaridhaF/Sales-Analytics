@@ -25,8 +25,7 @@
 **2021 New products**: [https://github.com/FaridhaF/Sales-Analytics/blob/main/2021%20New%20products.pdf](https://github.com/FaridhaF/Sales-Analytics/blob/main/New%20Products%20in%202021.pdf)
 (new products are those in which 2021 vs 2021 growth is 0%))
 
-**Top 5 Countries**: https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%205%20Countries%202021%20sales.pdf
-(based on 2021 Net Sales)
+**Top 5 and Bottom 5 Products by Quantity**: [https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%205%20Countries%202021%20sales.pdf](https://github.com/FaridhaF/Sales-Analytics/blob/main/Top%20%26%20Bottom%20Products%20by%20Quantity.pdf)
 
 ## Technical & Soft Skills:
 - [x]  Proficiency in ETL(Extract Transform and Load)
