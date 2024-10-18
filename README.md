@@ -3,7 +3,7 @@
 **Project Description**
 > Created Customer Performance Report to have a good summarization of Net Sales of all the customers in the years 2019,2020 
   and 2021.
-> The report also have 2020 vs 2021 percentage growth highlighted with data bars
+> The report also have 2020 vs 2021 percentage growth highlighted with data bars.
 > Can use various filters to see Region level, Country level and Division level Net Sales.
 
 **Project Objective**
@@ -33,7 +33,7 @@
 ## Technical & Soft Skills:
 - [x]  Proficiency in ETL(Extract Transform and Load)
 - [x]  Generated date table using power query
-- [x]  Established data model relationships with Power Pivot.
+- [x]  Established data model relationships using Power Pivot.
 - [x]  Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
